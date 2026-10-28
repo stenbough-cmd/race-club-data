@@ -1,239 +1,10 @@
 {
- "updated": "2026-10-28T01:35:44.511Z",
+ "updated": "2026-10-28T09:20:28.637Z",
  "helmets": [
   {
-   "name": "Race Club Legend",
+   "name": "Ferrari Historic",
    "kind": "Premium",
-   "description": "A classic helmet design to celebrate the some of the best Race Club members on and off the track.",
-   "recipe": {
-    "d": 4,
-    "b": [
-     "yellow",
-     "gloss"
-    ],
-    "a1": [
-     "white",
-     "gloss"
-    ],
-    "a2": [
-     "green",
-     "gloss"
-    ],
-    "v": "clear",
-    "logos": [
-     {
-      "s": "g_fade",
-      "c": "black",
-      "x": 168,
-      "y": 413,
-      "w": 365,
-      "h": 104,
-      "r": -2.5,
-      "sh": 0,
-      "c2": "black"
-     },
-     {
-      "s": "g_fade",
-      "c": "black",
-      "x": 162,
-      "y": 789,
-      "w": 590,
-      "h": 104,
-      "r": 4,
-      "sh": 0,
-      "c2": "black"
-     },
-     {
-      "s": "g_fade",
-      "c": "black",
-      "x": 978,
-      "y": 433,
-      "w": 590,
-      "h": 104,
-      "r": 179.5,
-      "sh": 0,
-      "c2": "black"
-     },
-     {
-      "s": "g_fade",
-      "c": "black",
-      "x": 873,
-      "y": 757,
-      "w": 590,
-      "h": 104,
-      "r": -179,
-      "sh": 0,
-      "c2": "black"
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0020",
-      "x": 103,
-      "y": 979,
-      "w": 415,
-      "h": 80,
-      "r": 8,
-      "sh": 1,
-      "pa": -35,
-      "pp": 50,
-      "bu": -24,
-      "sk": 2
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0018",
-      "x": 467,
-      "y": 927,
-      "w": 167,
-      "h": 92,
-      "r": 3,
-      "sh": 0
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0023",
-      "x": 897,
-      "y": 886,
-      "w": 205,
-      "h": 57,
-      "r": 1,
-      "sh": 1,
-      "pa": -3,
-      "pp": 100,
-      "bu": 6
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0019",
-      "x": 232,
-      "y": 315,
-      "w": 212,
-      "h": 206,
-      "r": -5,
-      "sh": 1,
-      "pa": -14,
-      "pp": 50,
-      "bu": 10,
-      "bl": -5,
-      "sk": 17,
-      "st": 1
-     },
-     {
-      "s": "g_fade",
-      "c": "graphite",
-      "x": 240,
-      "y": 295,
-      "w": 116,
-      "h": 402,
-      "r": -34,
-      "sh": 1,
-      "o": 50,
-      "c2": "black"
-     },
-     {
-      "s": "rect",
-      "c": "navy",
-      "x": 816,
-      "y": 759,
-      "w": 700,
-      "h": 103,
-      "r": 1,
-      "sh": 0
-     },
-     {
-      "s": "rect",
-      "c": "navy",
-      "x": 270,
-      "y": 783,
-      "w": 459,
-      "h": 103,
-      "r": 3.5,
-      "sh": 0
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0020",
-      "x": 705,
-      "y": 274,
-      "w": 450,
-      "h": 80,
-      "r": -1.5,
-      "sh": 1,
-      "pa": 3,
-      "pp": 50,
-      "bu": -11
-     },
-     {
-      "s": "g_fade",
-      "c": "black",
-      "x": 97,
-      "y": 1000,
-      "w": 198,
-      "h": 255,
-      "r": 4,
-      "sh": 1,
-      "o": 65,
-      "c2": "black"
-     },
-     {
-      "s": "g_fade",
-      "c": "black",
-      "x": 1074,
-      "y": 934,
-      "w": 383,
-      "h": 204,
-      "r": -179,
-      "sh": 1,
-      "o": 65,
-      "c2": "black"
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0021",
-      "x": 697,
-      "y": 180,
-      "w": 84,
-      "h": 63,
-      "r": 0,
-      "sh": 1,
-      "bu": -8,
-      "st": 1
-     },
-     {
-      "s": "player_num",
-      "c": "black",
-      "x": 332,
-      "y": 870,
-      "w": 194,
-      "h": 40,
-      "r": 3.5,
-      "sh": 0
-     },
-     {
-      "m": "",
-      "v": "std",
-      "f": "u:HA-0022",
-      "x": 491,
-      "y": 861,
-      "w": 160,
-      "h": 20,
-      "r": 2.5,
-      "sh": 0
-     }
-    ],
-    "ac": 4
-   }
-  },
-  {
-   "name": "Ferrari 1950s",
-   "kind": "Premium",
-   "description": "Inspired by Ferrari's storied racing heritage, cutting edge engineering, and timeless style, this helmet looks as good on the track as it does off it.",
+   "description": "A clean, heritage-inspired racing helmet that draws heavily from classic Ferrari styling, using a crisp white base accented by bold red and gold stripes.",
    "recipe": {
     "d": 2,
     "b": [
@@ -485,9 +256,238 @@
    }
   },
   {
+   "name": "Race Club Legend",
+   "kind": "Premium",
+   "description": "A classic helmet design, worn by Ayrton Senna, to celebrate Race Club's most legendary members.",
+   "recipe": {
+    "d": 4,
+    "b": [
+     "yellow",
+     "gloss"
+    ],
+    "a1": [
+     "white",
+     "gloss"
+    ],
+    "a2": [
+     "green",
+     "gloss"
+    ],
+    "v": "clear",
+    "logos": [
+     {
+      "s": "g_fade",
+      "c": "black",
+      "x": 168,
+      "y": 413,
+      "w": 365,
+      "h": 104,
+      "r": -2.5,
+      "sh": 0,
+      "c2": "black"
+     },
+     {
+      "s": "g_fade",
+      "c": "black",
+      "x": 162,
+      "y": 789,
+      "w": 590,
+      "h": 104,
+      "r": 4,
+      "sh": 0,
+      "c2": "black"
+     },
+     {
+      "s": "g_fade",
+      "c": "black",
+      "x": 978,
+      "y": 433,
+      "w": 590,
+      "h": 104,
+      "r": 179.5,
+      "sh": 0,
+      "c2": "black"
+     },
+     {
+      "s": "g_fade",
+      "c": "black",
+      "x": 873,
+      "y": 757,
+      "w": 590,
+      "h": 104,
+      "r": -179,
+      "sh": 0,
+      "c2": "black"
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0020",
+      "x": 103,
+      "y": 979,
+      "w": 415,
+      "h": 80,
+      "r": 8,
+      "sh": 1,
+      "pa": -35,
+      "pp": 50,
+      "bu": -24,
+      "sk": 2
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0018",
+      "x": 467,
+      "y": 927,
+      "w": 167,
+      "h": 92,
+      "r": 3,
+      "sh": 0
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0023",
+      "x": 897,
+      "y": 886,
+      "w": 205,
+      "h": 57,
+      "r": 1,
+      "sh": 1,
+      "pa": -3,
+      "pp": 100,
+      "bu": 6
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0019",
+      "x": 232,
+      "y": 315,
+      "w": 212,
+      "h": 206,
+      "r": -5,
+      "sh": 1,
+      "pa": -14,
+      "pp": 50,
+      "bu": 10,
+      "bl": -5,
+      "sk": 17,
+      "st": 1
+     },
+     {
+      "s": "g_fade",
+      "c": "graphite",
+      "x": 240,
+      "y": 295,
+      "w": 116,
+      "h": 402,
+      "r": -34,
+      "sh": 1,
+      "o": 50,
+      "c2": "black"
+     },
+     {
+      "s": "rect",
+      "c": "navy",
+      "x": 816,
+      "y": 759,
+      "w": 700,
+      "h": 103,
+      "r": 1,
+      "sh": 0
+     },
+     {
+      "s": "rect",
+      "c": "navy",
+      "x": 270,
+      "y": 783,
+      "w": 459,
+      "h": 103,
+      "r": 3.5,
+      "sh": 0
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0020",
+      "x": 705,
+      "y": 274,
+      "w": 450,
+      "h": 80,
+      "r": -1.5,
+      "sh": 1,
+      "pa": 3,
+      "pp": 50,
+      "bu": -11
+     },
+     {
+      "s": "g_fade",
+      "c": "black",
+      "x": 97,
+      "y": 1000,
+      "w": 198,
+      "h": 255,
+      "r": 4,
+      "sh": 1,
+      "o": 65,
+      "c2": "black"
+     },
+     {
+      "s": "g_fade",
+      "c": "black",
+      "x": 1074,
+      "y": 934,
+      "w": 383,
+      "h": 204,
+      "r": -179,
+      "sh": 1,
+      "o": 65,
+      "c2": "black"
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0021",
+      "x": 697,
+      "y": 180,
+      "w": 84,
+      "h": 63,
+      "r": 0,
+      "sh": 1,
+      "bu": -8,
+      "st": 1
+     },
+     {
+      "s": "player_num",
+      "c": "black",
+      "x": 332,
+      "y": 870,
+      "w": 194,
+      "h": 40,
+      "r": 3.5,
+      "sh": 0
+     },
+     {
+      "m": "",
+      "v": "std",
+      "f": "u:HA-0022",
+      "x": 491,
+      "y": 861,
+      "w": 160,
+      "h": 20,
+      "r": 2.5,
+      "sh": 0
+     }
+    ],
+    "ac": 4
+   }
+  },
+  {
    "name": "Aston Martin",
    "kind": "Manufacturer",
-   "description": "",
+   "description": "A bold, modern motorsport helmet design that combines Aston Martin-inspired racing green with high-visibility lime accents, featuring flowing aerodynamic stripes that create a sense of speed.",
    "recipe": {
     "d": 11,
     "b": [
